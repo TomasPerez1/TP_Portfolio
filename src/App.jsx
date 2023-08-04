@@ -10,10 +10,10 @@ import Skills from "./components/Skills";
 function App() {
   return (
     <div className="bg-background h-screen w-screen">
-      <SideNav/>
        <Toggle/>
       <ContactMe/>
       <Skills/> 
+      <SideNav/>
     </div>
   );
 }
