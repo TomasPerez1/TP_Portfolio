@@ -15,7 +15,7 @@ function App() {
           <h1 className="first-letter:text-primary">Perez</h1>
         </div>
         <h2 className="text-xl">Fullstack developer</h2>
-        <h3>Bringing software solutions and products to the Web</h3>
+        <h3>Bringing quality products and software solutions to the Web</h3>
       </div>
       {/* 
       <ContactMe/>
